@@ -1,0 +1,2 @@
+# SambaSetup
+For future me. 
