@@ -1,5 +1,5 @@
 # SambaSetup
-For future me, how not waste half day on Linux -> Windows 10 Samba setup.  
+For future me, how not to waste half day on Linux -> Windows 10 Samba setup.  
 
 1. Run > Secpol.msc
 
